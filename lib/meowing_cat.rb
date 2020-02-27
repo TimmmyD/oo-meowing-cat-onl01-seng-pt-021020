@@ -1,6 +1,11 @@
 class Cat 
-  att_reader :name 
-  attr_accessor : sticks
+  attr_accessor : name 
+  
+  def meow
+    puts "meow!"
+    
+  end
+end 
   
   
   
